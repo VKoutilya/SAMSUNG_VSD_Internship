@@ -1,4 +1,4 @@
-# VLSI _ NEW TASK
+# VLSI _ TASK 1
 ## A C program was written as follows using the code 
        leafpad Koutilya.c
 ##and the program is as follows 
