@@ -1,3 +1,7 @@
+Title:
+# MUSIC SYNTHESISER USING A BUZZER 
+
+
 Video:
 
 https://drive.google.com/file/d/1w8FLy4LdniThm21uAwTlpec0eZnXa9df/view?usp=drive_link
